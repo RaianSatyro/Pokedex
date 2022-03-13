@@ -75,8 +75,8 @@
     display: block;
 }
 
-.type-fogo{
-    background-color: #d62626;
+.type-fire{
+    background-color: #740707;
 }
 
 .type-eletric {
@@ -84,15 +84,15 @@
 }
 
 .type-aqua {
-    background-color: #2fc7c7;
+    background-color: #9efafa;
 }
 
 .type-grass {
-    background-color: #139138;
+    background-color: #006b20;
 }
 
 .type-dark {
-    background-color: #9c3ab4;
+    background-color: #6d0586;
 }
 
 .type-dragon {
